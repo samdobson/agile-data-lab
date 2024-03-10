@@ -1,34 +1,20 @@
-# agile data lab
+# Python Data Sandox
 
-**Explore and analyse data quickly: no coding, no setup, total data security.**
+Python Data Sandbox lets you analyse common data formats (CSV, Excel, JSON, XML...) using Python, on your own computer, without installing anything.
 
-agile data lab lets you analyse common data formats (CSV, Excel, etc.) directly on your own computer.
+You get all the power of Python, none of the setup complications, and your data never leaves your machine.
 
-Get started in minutes: there is no software to install, and your data never leaves your machine.
+This might be of interest if you are:
 
-Perfect for:
+* A **data analyst** needing a flexible, easily-accessible environment for ad-hoc analysis.
+* A **business user** wanting to explore and manipulate data independently without procuring complex tools. 
 
-* **Data analysts** needing quick answers in a flexible working environment.
-* **Business users** wanting to explore their data independently without complex tools.
+Possible uses might include:
 
-agile data lab helps you achieve:
+* Data Profiling: Building lightweight tools for automated data profiling to assess data quality, identify anomalies, and understand data distributions.
+* Data Lineage and Impact Analysis: Building specialised tools to map data lineage, track data transformations, and perform impact analysis for changes.
+* Privacy Compliance: Creating utilities for anonymisation, pseudonymisation, and data masking to ensure compliance with data privacy regulations.
+* Governance Automation: Developing scripts for automating governance tasks such as data validation, policy enforcement, and compliance monitoring.
+* Bias Detection: Integrate bias detection libraries into data pipelines to identify and mitigate biases in machine learning models.
 
-* **Data Integrity:** Discover and fix errors to ensure your data is accurate and trustworthy.
-* **Enhanced insights:** Uncover hidden patterns and trends for more informed, data-driven decisions.
-
-> "agile data lab gave me a reliable view of what I was working with in record time." - Tom, Business Analyst
-
-✨ [Try agile data lab now](https://samdobson.github.io/agile-data-lab) ✨
-
-**Know Python?** Extend agile data lab's capabilities to automate repetitive tasks, create custom visualisations, and integrate seamlessly with your existing tools.
-
-### Alternatives
-
-You may consider using agile data lab instead of...
-
-| Alternative | agile data lab may be a better fit                            |
-| ------------- | ----------------------------------------------------------- |
-| Excel         | * When you need more flexible analysis. * When you need automation. * When you want to leverage Python's rich ecosystem of libraries.      |
-| Enterprise Data Software | * When you need instant insights without lengthy setup. * When working with smaller-scale data. |
-
-
+✨ [Try Python Data Sandbox now](https://samdobson.github.io/pythondatasandbox) ✨
