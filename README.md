@@ -4,6 +4,8 @@ Python Data Sandbox lets you analyse common data formats (CSV, Excel, JSON, XML.
 
 You get all the power of Python, none of the setup complications, and your data never leaves your machine.
 
+✨ [Try Python Data Sandbox now](https://samdobson.github.io/pythondatasandbox) ✨
+
 This might be of interest if you are:
 
 * A **data analyst** needing a flexible, easily-accessible environment for ad-hoc analysis.
@@ -17,4 +19,3 @@ Possible uses might include:
 * Governance Automation: Developing scripts for automating governance tasks such as data validation, policy enforcement, and compliance monitoring.
 * Bias Detection: Integrate bias detection libraries into data pipelines to identify and mitigate biases in machine learning models.
 
-✨ [Try Python Data Sandbox now](https://samdobson.github.io/pythondatasandbox) ✨
