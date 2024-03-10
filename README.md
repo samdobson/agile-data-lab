@@ -1,4 +1,4 @@
-# Python Data Sandox
+# Python Data Sandbox
 
 Python Data Sandbox lets you analyse common data formats (CSV, Excel, JSON, XML...) using Python, on your own computer, without installing anything.
 
@@ -13,9 +13,9 @@ This might be of interest if you are:
 
 Possible uses might include:
 
-* Data Profiling: Building lightweight tools for automated data profiling to assess data quality, identify anomalies, and understand data distributions.
-* Data Lineage and Impact Analysis: Building specialised tools to map data lineage, track data transformations, and perform impact analysis for changes.
-* Privacy Compliance: Creating utilities for anonymisation, pseudonymisation, and data masking to ensure compliance with data privacy regulations.
-* Governance Automation: Developing scripts for automating governance tasks such as data validation, policy enforcement, and compliance monitoring.
-* Bias Detection: Integrate bias detection libraries into data pipelines to identify and mitigate biases in machine learning models.
+* **Data Profiling:** Building lightweight tools for automated data profiling to assess data quality, identify anomalies, and understand data distributions.
+* **Data Lineage and Impact Analysis:** Building specialised tools to map data lineage, track data transformations, and perform impact analysis for changes.
+* **Privacy Compliance:** Creating utilities for anonymisation, pseudonymisation, and data masking to ensure compliance with data privacy regulations.
+* **Governance Automation:** Developing scripts for automating governance tasks such as data validation, policy enforcement, and compliance monitoring.
+* **Bias Detection:** Integrate bias detection libraries into data pipelines to identify and mitigate biases in machine learning models.
 
